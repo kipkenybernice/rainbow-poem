@@ -1,4 +1,4 @@
-The Rainbow(ROYGBIV)
+The Rainbows and unicorns
 
 red 
 orange 
@@ -6,5 +6,5 @@ yellow
 green
 blue
 violet
-
+unicorn 
 These are the colors of the rainbows
