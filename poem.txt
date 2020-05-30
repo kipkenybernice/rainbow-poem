@@ -3,6 +3,7 @@ The Rainbow(ROYGBIV)
 red 
 orange 
 yellow
+green
 indogo
 violet
 
