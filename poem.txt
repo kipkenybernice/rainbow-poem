@@ -5,7 +5,6 @@ orange
 yellow
 green
 blue
-indogo
 violet
 
 These are the colors of the rainbow
