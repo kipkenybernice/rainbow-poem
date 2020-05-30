@@ -4,6 +4,7 @@ red
 orange 
 yellow
 green
+blue
 indogo
 violet
 
