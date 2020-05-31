@@ -1,12 +1,12 @@
 The Rainbows and unicorns
-red 
-orange 
-yellow
-green
-blue
-violet
-indigo
-unicorn 
+a)red 
+b)orange 
+c)yellow
+d)green
+e)blue
+f)violet
+g)indigo
+h)unicorn 
 These are the colors of the rainbow.
 My world is full of colour
 
