@@ -1,5 +1,4 @@
 The Rainbows and unicorns
-
 red 
 orange 
 yellow
@@ -8,3 +7,12 @@ blue
 violet
 unicorn 
 These are the colors of the rainbows
+Les arcs-en-ciel et les licornes
+rouge
+Orange
+Jaune
+vert
+bleu
+violet
+Licorne
+Ce sont les couleurs des arcs-en-ciel
