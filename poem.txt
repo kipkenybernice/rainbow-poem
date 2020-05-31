@@ -7,9 +7,10 @@ blue
 violet
 indigo
 unicorn 
-These are the colors of the rainbow.My world  is ful of color
+These are the colors of the rainbow.
+My world is full of colour
 
-Les arcs-en-ciel et les licornes
+Les arcs-en-ciel et les licornes.
 rouge
 Orange
 Jaune
@@ -17,5 +18,6 @@ vert
 bleu
 violet
 Licorne
-Ce sont les couleurs des arcs-en-ciel
+Ce sont les couleurs des arcs-en-ciel.
+Hey this is bccoderock!
 
